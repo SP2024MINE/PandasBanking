@@ -2,7 +2,7 @@
 
 ## Proyecto final
 
-Este repositorio contiene el proyecto final del seminario de programación de la Maestría en Inteligencia de la Universidad Externado de Colombia.
+Este repositorio contiene el proyecto final del seminario de programación de la Maestría en Inteligencia de Negocios de la Universidad Externado de Colombia.
 
 Fue desarrollado por:
 - Maria Alejandra Estupiñan Briceño
