@@ -1,0 +1,1 @@
+En esta carpeta se almacena el aplicativo con el formulario para la captura de datos a través de streamlit y ejecución de la predicción a través del API.

@@ -1,0 +1,1 @@
+En esta carpeta se almacena el pipeline para el preprocesamiento de los datos y hacer la predicción del resultado con datos nuevos.

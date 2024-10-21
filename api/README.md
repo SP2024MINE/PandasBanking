@@ -1,0 +1,1 @@
+En esta carpeta se construye el API para el consumo del modelo y aplicación de score, usando como entrada datos json.
